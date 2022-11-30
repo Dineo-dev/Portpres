@@ -76,7 +76,7 @@ homepage property or json data won't load.
 </pre>
 </details>
 <details>
-<summary>[ 26.05.2021, contributor: <a href="https://github.com/DavidMatalik">@DavidMatalik</a> ]</summary>
+<summary>[ 26.05.2021, contributor: <a href="https://github.com/DavidMatalik">@DineoPhahla</a> ]</summary>
 <pre>
 - removed nonexisting logos references: logo192 and logo512.  
 </pre>
