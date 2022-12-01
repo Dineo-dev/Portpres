@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Dineo Phahla",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "titles": [ "Front-end Developer", "Back-end Developer" ],
       "social": [
         {
           "name": "github",
@@ -44,8 +44,8 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
+          "name": "Tailwind",
+          "class": "tailwind-css",
           "level": "75"
         },
         {
@@ -54,8 +54,8 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "C++",
+          "class": "devicon-C++-plain",
           "level": "65"
         },
         {
